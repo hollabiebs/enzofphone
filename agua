@@ -1,0 +1,823 @@
+{
+  "version": 1,
+  "id": "422b50e1-08c5-47a0-af78-a22cb3f94041",
+  "title": "Enzo Fernandez",
+  "owner": "Enzo Fernandez",
+  "ownerAvatar": null,
+  "ownerInfo": {
+    "phone": "1156537974"
+  },
+  "theme": "light",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "12:39",
+  "date": "2026-02-12",
+  "clockMode": "fixed",
+  "lockTextTone": "light",
+  "lockWallpaperTransform": {
+    "x": 50,
+    "y": 50,
+    "scale": 1
+  },
+  "homeWallpaperTransform": {
+    "x": 50,
+    "y": 50,
+    "scale": 1
+  },
+  "lockWallpaperEffects": {
+    "blur": 3,
+    "opacity": 1
+  },
+  "lockCode": "3112",
+  "lockWallpaper": "assets/1.jpg",
+  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": true,
+    "calendar": true,
+    "diary": false,
+    "scrapbook": false,
+    "sns": true,
+    "calls": true
+  },
+  "appLayout": {
+    "home": [
+      "music",
+      "calendar",
+      "sns",
+      "calls",
+      "scrapbook",
+      "diary"
+    ],
+    "dock": [
+      "messages",
+      "contacts",
+      "photos",
+      "notes"
+    ]
+  },
+  "homePageCount": 1,
+  "homeSlots": {
+    "music": 0,
+    "calendar": 1,
+    "diary": 17,
+    "scrapbook": 16,
+    "sns": 4,
+    "calls": 5
+  },
+  "widgets": [
+    {
+      "id": "0bfc65c6-e82b-49a2-aee8-664c0ccf8007",
+      "type": "photo",
+      "size": "4x2",
+      "slot": 8,
+      "src": "assets/58.jpg",
+      "style": "fill",
+      "caption": "",
+      "transform": {
+        "x": 50,
+        "y": 50,
+        "scale": 1
+      }
+    },
+    {
+      "id": "2ff038c6-1d79-45ff-9afe-eb0bbfab2ab3",
+      "type": "photo",
+      "size": "2x2",
+      "slot": 2,
+      "src": "assets/59.jpg",
+      "style": "fill",
+      "caption": "",
+      "transform": {
+        "x": 50,
+        "y": 50,
+        "scale": 1
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "id": "af1335bc-739f-4fbd-bc9d-fa03711d2378",
+      "name": "Juli",
+      "subtitle": "",
+      "phone": "1145326897",
+      "favorite": false,
+      "avatar": "assets/3.jpg"
+    },
+    {
+      "id": "9728e856-4395-45a7-a900-13cb445d3d94",
+      "name": "equi hermano",
+      "subtitle": "",
+      "phone": "1167679775",
+      "favorite": false,
+      "avatar": "assets/4.jpg"
+    },
+    {
+      "id": "5911feb6-6ea2-4769-8a36-9cb5d8e63b6a",
+      "name": "lean",
+      "subtitle": "",
+      "phone": "1153764944",
+      "favorite": false,
+      "avatar": "assets/5.jpg"
+    },
+    {
+      "id": "ba56aaed-7ee7-46e9-a96a-88485dfd8511",
+      "name": "exe",
+      "subtitle": "",
+      "phone": "1143464494",
+      "favorite": false,
+      "avatar": "assets/6.jpg"
+    },
+    {
+      "id": "655931ef-efdd-41c9-bc5f-558f977af0d9",
+      "name": "licha hermano",
+      "subtitle": "",
+      "phone": "1153464973",
+      "favorite": false,
+      "avatar": "assets/7.jpg"
+    },
+    {
+      "id": "f8f30583-8471-4b9d-bd2f-004c58cad432",
+      "name": "franco alvarez",
+      "subtitle": "",
+      "phone": "1153449786",
+      "favorite": false,
+      "avatar": "assets/8.jpg"
+    },
+    {
+      "id": "0ffec5e5-e09a-4d20-a134-423fc91d2e57",
+      "name": "cuti",
+      "subtitle": "",
+      "phone": "1146749763",
+      "favorite": false,
+      "avatar": "assets/9.jpg"
+    }
+  ],
+  "threads": [
+    {
+      "id": "0a01c1d0-41f1-498d-9640-7dc569ab7411",
+      "contactId": "9728e856-4395-45a7-a900-13cb445d3d94",
+      "messages": [
+        {
+          "id": "915acff4-b81e-4110-b92a-cf1e6bbb6e78",
+          "kind": "date",
+          "text": "Thursday, February 12",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 2,
+            "day": 12,
+            "weekday": 4
+          }
+        },
+        {
+          "id": "b91a57aa-40fb-4554-9d23-500341f4fef3",
+          "from": "me",
+          "text": "hermano veni a mi departamento por favor",
+          "time": "12:39"
+        },
+        {
+          "id": "5d0e77f4-8660-4387-8699-632547426c97",
+          "from": "me",
+          "text": "",
+          "time": "12:39",
+          "image": "assets/10.png"
+        },
+        {
+          "id": "a4bbf6e3-5ff4-4a0b-89e5-a4cc3e530948",
+          "from": "me",
+          "text": "no paro de llorar y temblar equi sigue escribiendo encima",
+          "time": "12:39"
+        },
+        {
+          "id": "4b05b1ea-2ee5-4f9d-b707-70308d8eaedd",
+          "from": "me",
+          "text": "necesito que vuelva equi",
+          "time": "12:39"
+        },
+        {
+          "id": "d5a5cb01-17f8-4002-bfbe-cb45f0bfcc38",
+          "from": "them",
+          "text": "enzo estoy yendo",
+          "time": "12:39"
+        },
+        {
+          "id": "8cfa659c-db6d-47bb-b7ad-27ad2ab64df2",
+          "from": "them",
+          "text": "cálmate",
+          "time": "12:39"
+        },
+        {
+          "id": "d773a48b-957d-4f79-b644-1ee35e73bdaf",
+          "from": "them",
+          "text": "me time un didi",
+          "time": "12:39"
+        },
+        {
+          "id": "8c0652b4-7206-4ad6-afcc-7e229b892588",
+          "from": "them",
+          "text": "respirá ondo por favor",
+          "time": "12:39"
+        },
+        {
+          "id": "9251bb3d-938f-4bef-a71c-6089695719c6",
+          "from": "them",
+          "text": "todo va a estar bien",
+          "time": "12:39"
+        },
+        {
+          "id": "69cfa440-69b2-4236-b6d9-e57ba7f28d37",
+          "from": "them",
+          "text": "vos que opinas?",
+          "time": "12:39"
+        },
+        {
+          "id": "2f10e36b-fba0-4507-a743-6395d1e9a4f3",
+          "from": "me",
+          "text": "no se dios",
+          "time": "12:39"
+        },
+        {
+          "id": "6f7066ba-5160-48cc-b8c3-a5000ab94e6e",
+          "from": "me",
+          "text": "me desespere",
+          "time": "12:39"
+        },
+        {
+          "id": "2e0a5e8b-243b-4570-95fe-5e8ef1faac3f",
+          "from": "me",
+          "text": "le mande miles de mensajes",
+          "time": "12:39"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    },
+    {
+      "id": "08c697dc-8e2b-40c3-a434-a6ce79b3420e",
+      "contactId": "af1335bc-739f-4fbd-bc9d-fa03711d2378",
+      "messages": [
+        {
+          "id": "0bb20155-9cae-4fe8-aff4-862c945df9b5",
+          "kind": "date",
+          "text": "Thursday, February 12",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 2,
+            "day": 12,
+            "weekday": 4
+          }
+        },
+        {
+          "id": "641ba136-909f-48d9-abf1-66cd6ef2a471",
+          "from": "them",
+          "text": "hola enzo",
+          "time": "12:39"
+        },
+        {
+          "id": "b043f871-fd5c-4dc5-a614-a74bfed74947",
+          "from": "me",
+          "text": "hola juli",
+          "time": "12:39"
+        },
+        {
+          "id": "090ef71c-d0a8-4d16-b1aa-fdfac3e6d7a5",
+          "from": "me",
+          "text": "dios no lo puedo creer",
+          "time": "12:39"
+        },
+        {
+          "id": "b1ce3822-6dcf-4d4e-9948-26d143da5130",
+          "from": "me",
+          "text": "hola mi amor",
+          "time": "12:39"
+        },
+        {
+          "id": "2800962c-a48c-46aa-95d8-0cc104468d8b",
+          "from": "me",
+          "text": "te extraño te extraño tanto",
+          "time": "12:39"
+        },
+        {
+          "id": "ade80cd1-ce8e-47a7-b10a-51741dfd8de2",
+          "from": "me",
+          "text": "estoy desesperado",
+          "time": "12:39"
+        },
+        {
+          "id": "2c80cc77-8d66-40f5-a06b-1c01a0f39f6b",
+          "from": "me",
+          "text": "tengo tanto miedo te extrañe tanto juli",
+          "time": "12:39"
+        },
+        {
+          "id": "671684f3-bf00-4de0-a375-2b9b29807d34",
+          "from": "me",
+          "text": "por favor hago lo que sea para que vos aunque sea estes conmigo",
+          "time": "12:39"
+        },
+        {
+          "id": "ebdabb48-279e-4e11-aadc-515bb5849059",
+          "from": "me",
+          "text": "lo que vos quieras",
+          "time": "12:39"
+        },
+        {
+          "id": "a955acca-a5e4-44ce-8de5-95c21a67168e",
+          "from": "me",
+          "text": "te juro que te amo julian te amo",
+          "time": "12:39"
+        },
+        {
+          "id": "29ab172f-6d4b-4f5b-a8e0-572ae03070e6",
+          "from": "them",
+          "text": "enzo para dejame terminar de escribir",
+          "time": "12:39"
+        },
+        {
+          "id": "975dc7b5-42bd-4398-b758-95627e2945e2",
+          "from": "me",
+          "text": "no puedo Julian te extraño tanto necesito explicarme con vos por favor julian no me dejes",
+          "time": "12:39"
+        },
+        {
+          "id": "b39f6e64-4887-4ef2-a6a3-6405ebaa7e64",
+          "from": "me",
+          "text": "spy egoista y mala persona pero te amo te lo juro",
+          "time": "12:39"
+        },
+        {
+          "id": "c3f78916-48eb-453a-86cc-1c048cc687a0",
+          "from": "me",
+          "text": "decime que vis tambien lo haces por favor decime que no hay otra persona",
+          "time": "12:39"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "1e6c44fa-2d16-4dd8-9cfd-d7c75d31aaf5",
+      "src": "assets/11.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "b1ed85df-3ff6-4253-b7ad-05772717d62b",
+      "src": "assets/12.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "9ae4131c-408c-428f-a913-514cba4fc27e",
+      "src": "assets/13.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "0ead1bce-6b8f-46db-aefb-dcaccf35964f",
+      "src": "assets/14.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "c889a610-7f6f-4929-b10d-5d5fd1929a7d",
+      "src": "assets/15.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "dc63d52e-434e-482d-849a-fbd4cd5dfcb8",
+      "src": "assets/16.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "e82bac0b-c7ac-4daf-9569-eea2e28de192",
+      "src": "assets/17.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "004b3264-245c-4b13-955f-b3dbb682b572",
+      "src": "assets/18.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "bb7a2b0e-1550-4d5f-b9cf-a316ddc34e13",
+      "src": "assets/19.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "19e4c5cc-6a7c-47a5-840e-675077827961",
+      "src": "assets/20.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "afc917b9-8f11-4bf7-ad9b-8b3b1d588d7c",
+      "src": "assets/21.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "9e7616d6-23e2-4bd8-8a79-e0ba3853ef42",
+      "src": "assets/22.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "c4327a61-4010-4097-a032-3aae510a864b",
+      "src": "assets/23.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "b81354ee-84c1-4089-b072-f5df0f3e6533",
+      "src": "assets/24.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "2ded656a-9fc4-4c48-8647-1615f304ec00",
+      "src": "assets/25.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "fe760e22-badd-4d88-9b8f-74b164d79583",
+      "src": "assets/26.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "34175a80-6ed6-47d2-a074-1f344b14de3f",
+      "src": "assets/27.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "d1d05f54-f6eb-4a20-b8ed-25c432503ae9",
+      "src": "assets/28.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "505d8037-e721-443d-af77-c36e7445b12b",
+      "src": "assets/29.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "d5b13545-5bf0-4be3-b2e5-647bf94f62e7",
+      "src": "assets/30.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "5116730f-ced5-4228-8b08-6f9083510d47",
+      "src": "assets/31.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "2f54ecd2-c876-4757-ace5-73f6a95e39eb",
+      "src": "assets/32.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "b5420176-13b4-4bc4-b382-4921ff4fd257",
+      "src": "assets/33.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "e6a492f3-f122-4c95-b765-73a4bb8d8800",
+      "src": "assets/34.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "cdd557bb-ac30-4636-a5c4-3668852a4ef6",
+      "src": "assets/35.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "9a178d84-4475-4d74-807e-b49b2336869e",
+      "src": "assets/36.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "c5f6ac74-c2fa-40bd-890e-92690ff5d316",
+      "src": "assets/37.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "1377e0fd-d817-41b1-9204-a318683cb062",
+      "src": "assets/38.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "6cf56f96-a49e-4d1b-a478-e0d953f351a4",
+      "src": "assets/39.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "e3333d43-fe93-463a-9b21-35ddc4c30a93",
+      "src": "assets/40.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "1ef902cb-8996-45ee-bfd4-c54de86a9ab6",
+      "src": "assets/41.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "130fbeb8-0059-4279-9583-e285607e2ef2",
+      "src": "assets/42.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "27c69ef4-1eb4-45bf-8ef0-62722c648ff0",
+      "src": "assets/43.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "e6207676-d08d-4a01-b0da-68b875cb0de0",
+      "src": "assets/44.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "54878c19-111b-42fa-9d52-7bba623cf7c8",
+      "src": "assets/45.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    },
+    {
+      "id": "69e4cfe1-1134-40de-9cf1-880369802a40",
+      "src": "assets/46.jpg",
+      "caption": "",
+      "date": "2026-02-12",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "21fc6e73-9b3e-4c2f-bbe1-247812518358",
+      "title": "receta brownie",
+      "body": "100gr de manteca\n200gr de azucar\n1 cucharadita esencia de vainilla\n3 huevos\nharina 000\nnesquik",
+      "pinned": false,
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "6449cd83-201e-4eb6-86cc-32267a33d87a",
+      "title": "ju",
+      "body": "El dolor es pasajero, pero para mí parece que no se va más. Capaz es por la cantidad de tiempo que te disfruté, y capaz hasta merezco este sufrimiento. Odio saber que no puedo tenerte, que me merezco tu rechazo y que verte con otra persona me lastima tanto como si me dieran un tiro en el pecho.\nSe me cierra el estómago y no puedo ingerir ni agua como una persona normal(q pelotudo) El psicólogo me dijo que es normal sentir celos por alguien que amás, pero esto no es solo celos. Para mí es un dolor incalculable, uno que aparece con tan solo pensarte con alguien más. Pensar que otra persona va a verte reírte, avergonzarte, levantarte cada mañana; que va a conocer qué te gusta y qué no, que va a prepararte el café a con la cantidad de azúcar que te gusta (tres cucharadas y media). Me lastima pensar que alguien más puede tener lo que yo más anhelo volver a tener.\nSos mi todo, Julián, y aunque vos no me quieras ni ver, yo siempre voy a querer verte todos los días de mi vida.\n",
+      "pinned": false,
+      "updated": "2026-02-12"
+    }
+  ],
+  "music": {
+    "tracks": [
+      {
+        "id": "d8ee11d5-1a81-4dd4-8a2b-467a185c9c78",
+        "title": "Aqui estas tu",
+        "artist": "Darkiel",
+        "cover": "assets/47.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=KKepfEwy5Rg"
+      },
+      {
+        "id": "4c4f0aef-df6e-43ca-b412-8ee1caa12f7d",
+        "title": "Mil Lagrimas ",
+        "artist": "Nicky Jam",
+        "cover": "assets/48.webp",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=ga5ZuJk4o7s"
+      },
+      {
+        "id": "7aa1130d-92ec-43ae-92a5-c5f56c52196b",
+        "title": "¿Que nos paso?",
+        "artist": "Anuel Aa",
+        "cover": "assets/49.webp",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=CzaR2Mx1UnA"
+      },
+      {
+        "id": "bf644e56-b142-4a02-935a-2700f8a93e52",
+        "title": "Tu no lo amas",
+        "artist": "Anuel Aa",
+        "cover": "assets/50.webp",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=YmThOnFXM0E"
+      },
+      {
+        "id": "4677ecb8-200e-432e-be32-041e2355b746",
+        "title": "La Boda",
+        "artist": "Cosculluela",
+        "cover": "assets/51.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=oiGCL2Ld534"
+      },
+      {
+        "id": "3d48154f-9efc-4f6f-9388-3a78e5020edf",
+        "title": "Stupid love story",
+        "artist": "Canserbero ",
+        "cover": "assets/52.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=wmef2TEPGgo"
+      },
+      {
+        "id": "f0a27f9d-ddcd-4aaa-8ffc-4bc4b15c334f",
+        "title": "Dices que te vas",
+        "artist": "Karol g, Anuel Aa",
+        "cover": "assets/53.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=L9C62sh07KY"
+      }
+    ],
+    "playlists": [
+      {
+        "id": "b7af7f44-beb0-4242-969f-a01ece34f6bc",
+        "title": "Juli",
+        "description": "",
+        "cover": "assets/54.webp",
+        "trackIds": [
+          "d8ee11d5-1a81-4dd4-8a2b-467a185c9c78",
+          "4c4f0aef-df6e-43ca-b412-8ee1caa12f7d",
+          "7aa1130d-92ec-43ae-92a5-c5f56c52196b",
+          "bf644e56-b142-4a02-935a-2700f8a93e52",
+          "4677ecb8-200e-432e-be32-041e2355b746",
+          "3d48154f-9efc-4f6f-9388-3a78e5020edf",
+          "f0a27f9d-ddcd-4aaa-8ffc-4bc4b15c334f"
+        ]
+      }
+    ]
+  },
+  "calendar": {
+    "events": [
+      {
+        "id": "fced234a-6a0a-4b22-ad0a-dc0823abdc33",
+        "title": "cumple juli",
+        "date": "2026-01-31",
+        "time": "",
+        "endDate": "",
+        "kind": "dday",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      }
+    ]
+  },
+  "diary": {
+    "entries": [
+      {
+        "id": "7889c27c-fdab-4f53-813f-54b0910948b3",
+        "title": "receta brownie",
+        "date": "2026-02-12",
+        "mood": "",
+        "body": "100gr de manteca\n200gr de azucar\n1 cucharadita esencia de vainilla\n3 huevos\nharina 000\nnesquik\n",
+        "photos": []
+      },
+      {
+        "id": "37ac800a-ab87-48c2-ae1b-b786e7372157",
+        "title": "ju",
+        "date": "2026-02-12",
+        "mood": "",
+        "body": "El dolor es pasajero, pero para mí parece que no se va más. Capaz es por la cantidad de tiempo que te disfruté, y capaz hasta merezco este sufrimiento. Odio saber que no puedo tenerte, que me merezco tu rechazo y que verte con otra persona me lastima tanto como si me dieran un tiro en el pecho.\nSe me cierra el estómago y no puedo ingerir ni agua como una persona normal(q pelotudo) El psicólogo me dijo que es normal sentir celos por alguien que amás, pero esto no es solo celos. Para mí es un dolor incalculable, uno que aparece con tan solo pensarte con alguien más. Pensar que otra persona va a verte reírte, avergonzarte, levantarte cada mañana; que va a conocer qué te gusta y qué no, que va a prepararte el café a con la cantidad de azúcar que te gusta (tres cucharadas y media). Me lastima pensar que alguien más puede tener lo que yo más anhelo volver a tener.\nSos mi todo, Julián, y aunque vos no me quieras ni ver, yo siempre voy a querer verte todos los días de mi vida.",
+        "photos": []
+      }
+    ]
+  },
+  "sns": {
+    "profile": {
+      "name": "e",
+      "handle": "frabigol",
+      "bio": "lo que faltaba que seas gallina y puto",
+      "followers": "5",
+      "following": "5",
+      "avatar": "assets/55.jpg",
+      "banner": "assets/56.jpg"
+    },
+    "accounts": [
+      {
+        "id": "7f9c0c14-7c19-44fa-a69c-c65f2a5b424f",
+        "name": "exe",
+        "handle": "palaciosexe",
+        "avatar": "assets/57.jpg"
+      }
+    ],
+    "posts": [
+      {
+        "id": "e5d9ddcd-8c1f-434a-9b06-6309fd0be056",
+        "authorId": "me",
+        "text": "yo se que me merezco todo lo malo pero por favor no me hagas padecerla"
+      },
+      {
+        "id": "edf60b8e-7b4c-4e55-beda-f1f79373fbfc",
+        "authorId": "me",
+        "text": "que carajos hermano"
+      },
+      {
+        "id": "1046b953-ae90-4fac-aeb1-3a6b0fda63c5",
+        "authorId": "me",
+        "text": "edtoy temnando sin parar dios escribi rapido poe favor",
+        "replies": [
+          {
+            "id": "6b00d9d0-7f88-4e8c-aead-3f3c0e7632d2",
+            "authorId": "7f9c0c14-7c19-44fa-a69c-c65f2a5b424f",
+            "text": "??? enzo habka en el grupo"
+          }
+        ]
+      }
+    ]
+  },
+  "calls": [
+    {
+      "id": "7d9e77b0-fd6f-4c65-80d2-2025b15eea30",
+      "type": "outgoing",
+      "contactId": "ba56aaed-7ee7-46e9-a96a-88485dfd8511"
+    },
+    {
+      "id": "44ec82c2-0079-4a85-a1ef-56f0ff106dd5",
+      "type": "missed",
+      "contactId": "5911feb6-6ea2-4769-8a36-9cb5d8e63b6a"
+    },
+    {
+      "id": "37023c56-e674-48af-b8c5-aa2bd114839f",
+      "type": "missed",
+      "contactId": "0ffec5e5-e09a-4d20-a134-423fc91d2e57"
+    },
+    {
+      "id": "20b492c4-3f7b-4873-a0b3-f11cc8acdfcb",
+      "type": "missed",
+      "contactId": "0ffec5e5-e09a-4d20-a134-423fc91d2e57"
+    },
+    {
+      "id": "ef921d0f-c647-468b-a12e-4cd110f5fa2e",
+      "type": "missed",
+      "contactId": "0ffec5e5-e09a-4d20-a134-423fc91d2e57"
+    },
+    {
+      "id": "1f571551-f04c-4642-a0f7-e62560e1e3e2",
+      "type": "missed",
+      "contactId": "5911feb6-6ea2-4769-8a36-9cb5d8e63b6a"
+    }
+  ],
+  "updatedAt": "2026-10-21T19:44:47.251Z"
+}
